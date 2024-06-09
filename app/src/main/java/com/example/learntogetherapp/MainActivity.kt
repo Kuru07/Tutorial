@@ -52,7 +52,7 @@ fun GreetingImage(Title: String,Midline:String,Lastline:String, modifier: Modifi
             modifier=Modifier.padding(16.dp),
        )
        Text(
-           text = "Jetpack Compose is a modern toolkit for building native Android UI. Compose simplifies and accelerates UI development on Android with less code, powerful tools, and intuitive Kotlin APIs.",
+           text = "Android Compose is a modern toolkit for building native Android UI. Compose simplifies and accelerates UI development on Android with less code, powerful tools, and intuitive Kotlin APIs.",
            modifier=Modifier.padding(start=16.dp,end=16.dp),
            textAlign = TextAlign.Justify,
 
